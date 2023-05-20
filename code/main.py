@@ -28,5 +28,3 @@ class Game:
 if __name__ == '__main__':
 	game = Game()
 	game.run()
-
-#RESUME VIDEO AT 30:14
