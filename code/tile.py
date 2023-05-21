@@ -8,5 +8,3 @@ class Tile(pygame.sprite.Sprite):
 		self.image = surface
 		self.rect = self.image.get_rect(topleft = pos)
 		self.hitbox = self.rect.inflate(0, -10)
-
-#RESUME VIDEO AT 1:25:23
